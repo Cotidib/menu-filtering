@@ -12,7 +12,7 @@ const menu = [
       title: 'diner double',
       category: 'lunch',
       price: 13.99,
-      img: 'http://jessicawalsh.ie/wp-content/uploads/2016/06/Turners-Cross-Tavern-Portfolio_Page_5-1000x800.jpg',
+      img: 'https://irecetasfaciles.com/wp-content/uploads/2019/08/pizza-de-jamon-queso-y-tocino.jpg',
       desc: `vaporware iPhone mumblecore selvage raw denim slow-carb leggings gochujang helvetica man braid jianbing. Marfa thundercats `,
     },
     {
