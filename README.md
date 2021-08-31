@@ -6,7 +6,7 @@ This is my version of the Accordion project in ['Code 15 React Projects' course 
 ### Overview and learnings
 Menu Filtering is a simple menu display with a simple dynamic filtering system.
 
-The main React functionality I learned is how to create filters dynamically. 
+The main React functionality I learned is how to create filters dynamically. I made my own setup, styling and added an extra pagination feature to the original idea of the project.
 
 ### Live Site
 https://constanzas-menu-filtering.netlify.app/

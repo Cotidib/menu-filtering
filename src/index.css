@@ -38,6 +38,11 @@ body {
 .filter-btn:hover{
   color: white;
   background-color: #c59d5f;
+} 
+
+.filter-btn-active{
+  color: white;
+  background-color: #c59d5f;
 }
 
 .menu-container{
@@ -46,17 +51,42 @@ body {
   margin: auto;
   display: grid;
   grid-template-columns: 1fr 1fr;
-  column-gap: 5%;
-  row-gap: 5%;
-  margin-top: 80px;
-  margin-bottom: 20px;
+  column-gap: 3em;
+  row-gap: 2em;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+.pages-container{
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  column-gap: 10px;
+  margin: 20px;
+}
+
+.page-btn{
+  border: none;
+  background-color: transparent;
+  padding: 5px;
+  font-size: 20px;
+  color: #c59d5f;
+}
+
+.page{
+  color: white;
+  background-color: #c59d5f;
+  padding: 15px;
+  width: 8px;
+  font-family: 'Quattrocento Sans', sans-serif;
+  display: grid;
 }
 
 .item{
   display: flex;
   flex-direction: row;
   column-gap: 20px;
-  
 }
 
 .item-header{
